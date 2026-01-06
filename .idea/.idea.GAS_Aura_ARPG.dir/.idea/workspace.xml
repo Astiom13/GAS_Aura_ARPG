@@ -7,11 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c100d8eb-d29a-45ec-8ada-a01f90022e2f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAS_Aura_ARPG.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/GAS_Aura_ARPG.uproject" afterDir="false" />
-    </list>
+    <list default="true" id="c100d8eb-d29a-45ec-8ada-a01f90022e2f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1767715700652</updated>
-      <workItem from="1767715703014" duration="574000" />
+      <workItem from="1767715703014" duration="1078000" />
     </task>
     <servers />
   </component>
