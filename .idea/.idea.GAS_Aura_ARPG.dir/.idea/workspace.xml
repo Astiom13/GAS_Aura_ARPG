@@ -9,7 +9,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c100d8eb-d29a-45ec-8ada-a01f90022e2f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GAS_Aura_ARPG.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GAS_Aura_ARPG.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/GAS_Aura_ARPG.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/GAS_Aura_ARPG.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Maps/StartupMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Input/IMC_AuraContext.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Input/IMC_AuraContext.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/Character/AuraCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/Character/AuraCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Public/Character/AuraCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Public/Character/AuraCharacter.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +25,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/UnrealEngine/UE_5.5/Engine/Source/Runtime/Launch/Private/Mac/LaunchMac.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://0" root0="FORCE_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://1" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -129,7 +141,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1767715700652</updated>
-      <workItem from="1767715703014" duration="12554000" />
+      <workItem from="1767715703014" duration="15578000" />
     </task>
     <servers />
   </component>

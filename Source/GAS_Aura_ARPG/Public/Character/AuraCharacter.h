@@ -10,5 +10,7 @@ UCLASS()
 class GAS_AURA_ARPG_API AAuraCharacter : public AAuraCharacterBase
 {
 	GENERATED_BODY()
-	
+
+public:
+	AAuraCharacter();
 };
