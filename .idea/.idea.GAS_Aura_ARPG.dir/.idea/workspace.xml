@@ -9,16 +9,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c100d8eb-d29a-45ec-8ada-a01f90022e2f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GAS_Aura_ARPG.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GAS_Aura_ARPG.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GAS_Aura_ARPG.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/GAS_Aura_ARPG.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/GAS_Aura_ARPG.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/GAS_Aura_ARPG.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/Character/AuraCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/Character/AuraCharacter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/Character/AuraCharacterBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/Character/AuraCharacterBase.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/Character/AuraEnemy.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/Character/AuraEnemy.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/Player/AuraPlayerState.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/Player/AuraPlayerState.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Public/Character/AuraCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Public/Character/AuraCharacter.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Public/Character/AuraCharacterBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Public/Character/AuraCharacterBase.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Public/Character/AuraEnemy.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Public/Character/AuraEnemy.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Public/Player/AuraPlayerState.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Public/Player/AuraPlayerState.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/AbilitySystem/AuraAttributeSet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/AbilitySystem/AuraAttributeSet.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Public/AbilitySystem/AuraAttributeSet.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Public/AbilitySystem/AuraAttributeSet.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1767715700652</updated>
-      <workItem from="1767715703014" duration="33195000" />
+      <workItem from="1767715703014" duration="35461000" />
     </task>
     <servers />
   </component>
