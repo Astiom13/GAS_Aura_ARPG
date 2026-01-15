@@ -9,6 +9,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c100d8eb-d29a-45ec-8ada-a01f90022e2f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GAS_Aura_ARPG.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GAS_Aura_ARPG.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Maps/StartupMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767715700652</updated>
       <workItem from="1767715703014" duration="39403000" />
-      <workItem from="1768314404641" duration="5489000" />
+      <workItem from="1768314404641" duration="7611000" />
     </task>
     <servers />
   </component>
