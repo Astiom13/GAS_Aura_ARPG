@@ -9,7 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c100d8eb-d29a-45ec-8ada-a01f90022e2f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GAS_Aura_ARPG.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GAS_Aura_ARPG.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/AbilitySystem/AuraAttributeSet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/AbilitySystem/AuraAttributeSet.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/UI/HUD/AuraHUD.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/UI/HUD/AuraHUD.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/UI/WidgetController/AuraWidgetController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/UI/WidgetController/AuraWidgetController.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/UI/WidgetController/OverlayWidgetController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/GAS_Aura_ARPG/Private/UI/WidgetController/OverlayWidgetController.cpp" afterDir="false" />
@@ -36,7 +36,7 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="cidr-memory-view://3" root0="FORCE_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://4" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -146,7 +146,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767715700652</updated>
       <workItem from="1767715703014" duration="39403000" />
-      <workItem from="1768314404641" duration="16585000" />
+      <workItem from="1768314404641" duration="18515000" />
     </task>
     <servers />
   </component>
